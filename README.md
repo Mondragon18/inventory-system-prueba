@@ -63,13 +63,3 @@ Este es un sistema de gestión de inventario desarrollado con Node.js, Express y
 ## Documentación Adicional
 
 - La documentación detallada de cada endpoint está disponible en formato ApiDoc dentro del proyecto.
-
-## Contribución
-
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit de ellos (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Haz push de la rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
